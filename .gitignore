@@ -1,0 +1,5 @@
+/.vscode
+/ALTER TABLE job_applied.sql
+/ALTER TABLE job_applied2.sql
+/INSERT INTO job_applied.sql
+/sql_load
