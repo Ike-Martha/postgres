@@ -1,1 +1,7 @@
-Update the content of this later
+# Introduction
+
+-Background
+-Tools I used
+-The Analysis
+-What I learned
+-Conclusions
